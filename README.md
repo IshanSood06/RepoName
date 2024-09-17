@@ -19,5 +19,6 @@
 
 
 #Experiment
-* :Sweat_drops: | Drops
-* :Punch: | Punch
+* :clap: | clap
+* :fire: | fire
+* :watch: | watch
