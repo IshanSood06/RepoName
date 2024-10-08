@@ -24,14 +24,17 @@
 * :watch: | watch
 
 # keyboard shortcuts 
+
 ### shortcuts I frequently use :
 * ctrl + c (copy text)
 * ctrl + v (paste text)
 * ctrl + z (undo text)
 
-#shortcuts I would like to start using:
+# shortcuts I would like to start using:
 * win + d (show desktop)
 * alt + tab (switch between open apps)
 * Windows logo key + X (Open the Quick Link menu)
+
+[CLI commands](docs/cli.md)
 
 
