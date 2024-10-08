@@ -16,6 +16,7 @@
 * [Machine learning](https://github.com/topics/machine-learning)
 * [ Keyboard shortcuts](https://docs.github.com/en/get-started/accessibility/keyboard-shortcuts)
 * [Github Command Palette](https://docs.github.com/en/get-started/accessibility/github-command-palette)
+* [CLI commands](docs/cli.md)
 
 
 #Experiment
@@ -35,6 +36,6 @@
 * alt + tab (switch between open apps)
 * Windows logo key + X (Open the Quick Link menu)
 
-[CLI commands](docs/cli.md)
+
 
 
